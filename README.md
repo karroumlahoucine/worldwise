@@ -1,5 +1,3 @@
-WorldWise
-
 WorldWise is a React application designed to help users log and track their travel experiences. Users can record detailed notes and memories about each trip, and visualize their journeys on an interactive map.
 
 ![Screen Shot 2024-07-14 at 16 10 40-fullpage](https://github.com/user-attachments/assets/d91bc3c6-6d60-45d6-b55e-6f0bc48fbbd3)
